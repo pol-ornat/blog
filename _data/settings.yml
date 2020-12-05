@@ -7,9 +7,9 @@ disqus:
 google-ID: ''
 
 menu:
-- {name: 'Blog', folder: 'pages', file: 'facts.html'}
-- {name: 'Libros recomendados', folder: 'pages', file: 'resources.html'}
-- {name: 'Diccionario', folder: 'pages', file: 'sample-posts.html'}
+- {name: 'Blog', folder: 'pages', file: 'blog.html'}
+- {name: 'Libros recomendados', folder: 'pages', file: 'libros.html'}
+- {name: 'Diccionario', folder: 'pages', file: 'diccionario.html'}
 - {name: 'Documentation', folder: 'pages', file: 'documentation.html'}
 - {name: 'About', folder: 'pages', file: 'about.html'}
 - {name: 'Contact', folder: 'pages', file: 'contact.html'}
