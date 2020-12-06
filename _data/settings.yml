@@ -9,7 +9,7 @@ google-ID: ''
 menu:
 - {name: 'Posts', folder: 'pages', file: 'posts.html'}
 - {name: 'Bafonos', folder: 'pages', file: 'bafonos.html'}
-- {name: 'Recursos', folder: 'pages', file: 'Recursos.html'}
+- {name: 'Recursos', folder: 'pages', file: 'recursos.html'}
 - {name: 'Libros', folder: 'pages', file: 'libros.html'}
 - {name: 'Galeria', folder: 'pages', file: 'galeria.html'}
 - {name: 'Info', folder: 'pages', file: 'info.html'}
