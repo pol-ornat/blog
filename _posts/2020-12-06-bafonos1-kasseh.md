@@ -2,8 +2,8 @@
 layout: post
 title: "Bafonos 1: El mercado de Kasseh"
 author: "Pol of Rivia"
-categories: bafonos
-tags: [bafonos]
+categories: bafonos,posts
+tags: [bafonos,samples,posts]
 image: arctic-1.jpg
 ---
 
